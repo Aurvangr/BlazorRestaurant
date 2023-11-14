@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BlazorRestaurant/FileContentIndex
+/BlazorAthena/obj/Release/net7.0/BlazorAthena.assets.cache
+/ResturantAthena/obj/Release/net7.0/ResturantAthena.assets.cache
+/ResturantAthena/obj/Release/net7.0/ResturantAthena.csproj.AssemblyReference.cache
+/.vs/slnx.sqlite
