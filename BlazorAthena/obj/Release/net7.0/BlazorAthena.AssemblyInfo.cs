@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-BlazorAthena-afb033e4-de9c-4756-b5ef-e4a94ac6aa04")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorAthena")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
