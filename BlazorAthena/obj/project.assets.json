@@ -11655,24 +11655,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\46763\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\derpe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46763\\source\\repos\\BlazorRestaurant\\BlazorAthena\\BlazorAthena.csproj",
+      "projectUniqueName": "C:\\Users\\derpe\\Desktop\\Blazor Restaurant\\BlazorRestaurant\\BlazorAthena\\BlazorAthena.csproj",
       "projectName": "BlazorAthena",
-      "projectPath": "C:\\Users\\46763\\source\\repos\\BlazorRestaurant\\BlazorAthena\\BlazorAthena.csproj",
-      "packagesPath": "C:\\Users\\46763\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46763\\source\\repos\\BlazorRestaurant\\BlazorAthena\\obj\\",
+      "projectPath": "C:\\Users\\derpe\\Desktop\\Blazor Restaurant\\BlazorRestaurant\\BlazorAthena\\BlazorAthena.csproj",
+      "packagesPath": "C:\\Users\\derpe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\derpe\\Desktop\\Blazor Restaurant\\BlazorRestaurant\\BlazorAthena\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\46763\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\derpe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11744,7 +11739,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
